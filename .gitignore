@@ -1,0 +1,6 @@
+/node_modules/
+/var/
+/vendor/
+/web/assets/
+/resources/config/dev.php
+.idea
